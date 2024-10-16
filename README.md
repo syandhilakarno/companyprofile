@@ -1,1 +1,1 @@
-# companyprofile.html
+# company-profile.html
